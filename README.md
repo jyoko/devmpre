@@ -5,11 +5,7 @@ DevMountain Pre-Assessment
 
 This repo contains all the neccessary information for the Pre Course assessment. 
 
-The assessment is broken up into two parts. The first part is an HTML/CSS challenge that can be found with the code included in this repository. The second is a collection of JavaScript challenges found on the codecardio website. If you have and know git, go ahead and 'clone' this repo and get started. If you don't, click on the 'Download Zip' button to the right. 
-
-Instructions.txt contains the neccessary instructions for the first HTML/CSS challenge. 
-
-Below is a set of links that will get you started with the Javascript portion of the challenge. The questions will increase in difficulty. Please finish as many as you are able to complete. The more you complete, even if they're not perfect, the more we'll know about you and your ability to learn in an intense environment.
+The assessment is a collection of JavaScript challenges found on the codecardio website. Below is a set of links that will get you started with the Javascript challenge. The questions will increase in difficulty. Please finish as many as you are able to complete. The more you complete, even if they're not perfect, the more we'll know about you and your ability to learn in an intense environment.
 
 If you have any problems, questions, or concertns, please email back interviews@devmounta.in
 
