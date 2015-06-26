@@ -7,7 +7,7 @@ This repo contains all the neccessary information for the Pre Course assessment.
 
 The assessment is a collection of JavaScript challenges found on the codecardio website. Below is a set of links that will get you started with the Javascript challenge. The questions will increase in difficulty. Please finish as many as you are able to complete. The more you complete, even if they're not perfect, the more we'll know about you and your ability to learn in an intense environment.
 
-If you have any problems, questions, or concertns, please email back interviews@devmounta.in
+If you have any problems, questions, or concerns, please email back interviews@devmounta.in
 
 * [Sign up for codecardio](https://codecard.io/a/register)
 * Once you've registered, click this url: https://codecard.io/a/challenge/7YgspRtx?sequence=Brp4wLU1

@@ -2,4 +2,20 @@ body {
   background-color: #e3e3e3;
 }
 
+.row-one {
+  background-color: #0f0;
+}
+
+.row-two {
+  background-color: #ff0;
+}
+
+.row-three {
+  background-color: #f00;
+}
+
+.row-four {
+  background-color: #00f;
+}
+
 /* Your Code Here */
